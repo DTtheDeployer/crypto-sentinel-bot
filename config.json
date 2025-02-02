@@ -1,0 +1,16 @@
+{
+    "pocket_universe_api_key": "PLACEHOLDER_KEY",
+    "rugcheck_api_key": "PLACEHOLDER_KEY",
+    "toxisol_api_key": "PLACEHOLDER_KEY",
+    "telegram": {
+        "bot_token": "7317825391:AAF9qUYarqei0_E4u0TtfLx_XzvamSE6tLE",
+        "chat_id": "987654321"
+    },
+    "trading": {
+        "profit_targets": [20, 50],  
+        "stop_loss_levels": [5, 10, 15],  
+        "trailing_stop_percentage": 10,  
+        "dca_buyback_percentage": 10,  
+        "update_interval": 60
+    }
+}
